@@ -1,0 +1,39 @@
+﻿#wrapper{
+	position: relative;
+	width: 1400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+header {
+	left: 00px;
+	height:200px;
+	width:1200px;
+}
+
+nav {
+	position:absolute;
+	top:200px;
+	width:200px;
+	height:800px;
+	background-color:#189ab4;
+}
+
+article {
+	position:absolute;
+	top:200px;
+	left:200px;
+	width:1000px;
+	min-height:1590px;
+	background-image:url('egyptcard.jpg'); background-repeat : no-repeat;
+}
+
+right {
+	position:absolute;
+	top:200px;
+	right: 00px;
+	width:200px;
+	height:800px;
+	background-color:#189ab4;
+}
+
